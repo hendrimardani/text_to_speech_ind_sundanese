@@ -17,7 +17,7 @@ python3 utama.py --help
 
 ### Datasets
 
-I uses datasets in [click_here](https://openslr.org/36/) 
+I uses datasets in [here](https://openslr.org/36/) 
 
 ### Training hyperparameters
 
