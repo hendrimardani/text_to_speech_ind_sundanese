@@ -52,3 +52,6 @@ I uses datasets in [click_here](https://openslr.org/36/)
 - Pytorch 2.0.0
 - Datasets 2.1.0
 - Tokenizers 0.13.3
+
+
+![vokoscreenNG-2023-08-29_17-31-48](https://github.com/hendrimardani/text_to_speech_ind_sundanese/assets/49816104/4595fd8a-7ed6-4095-90f2-72582f7c649d)
