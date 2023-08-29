@@ -43,6 +43,9 @@ I uses datasets in [click_here](https://openslr.org/36/)
 
 - Loss : 0.4137
 
+![Screenshot pada 2023-08-29 14-01-30](https://github.com/hendrimardani/text_to_speech_ind_sundanese/assets/49816104/ad05ab62-6b9d-4c0e-b782-5d3b6711d92f)
+
+
 ### Framework version
 
 - Transformers 4.30.2
