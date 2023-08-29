@@ -1,6 +1,6 @@
 ### Descriptions
 
-This model is a fine-tuned version of microsoft/speecht5_tts. Thanks for microsoft
+This model is a fine-tuned version of microsoft/speecht5_tts.
 
 ### How to use
 
