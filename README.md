@@ -53,6 +53,12 @@ I uses datasets in [here](https://openslr.org/36/)
 - Tokenizers 0.13.3
 
 
+### Reference
+- [Huggingface](https://huggingface.co/)
+- [Pandas](https://pandas.pydata.org/)
+- [matplotlib](https://matplotlib.org/)
+- [PyTorch](https://pytorch.org/)
+
 ![vokoscreenNG-2023-08-29_17-31-48](https://github.com/hendrimardani/text_to_speech_ind_sundanese/assets/49816104/4595fd8a-7ed6-4095-90f2-72582f7c649d)
 
 ### ✉️ &nbsp; Get token for login or password file contact me:
