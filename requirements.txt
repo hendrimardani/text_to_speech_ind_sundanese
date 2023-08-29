@@ -1,0 +1,4 @@
+pip install transformers datasets soundfile speechbrain accelerate
+pip install speechbrain
+pip install git+https://github.com/huggingface/transformers.git
+
