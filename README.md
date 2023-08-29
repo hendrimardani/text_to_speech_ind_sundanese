@@ -1,7 +1,6 @@
 ### Descriptions
 
-This model is a fine-tuned version of microsoft/speecht5_tts on the None dataset. It achieves the following results on the evaluation set:
-
+This model is a fine-tuned version of microsoft/speecht5_tts. Thanks for microsoft
 
 ### How to use
 
