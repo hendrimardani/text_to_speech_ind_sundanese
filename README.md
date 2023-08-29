@@ -1,3 +1,5 @@
+This model is a fine-tuned version of microsoft/speecht5_tts on the None dataset. It achieves the following results on the evaluation set:
+
 ### How to use
 
 ```
@@ -31,3 +33,12 @@ python3 utama.py --help
 |  0.4549        |  29.63   |  2000  |  0.4176          |
 |  0.4437        |  44.44   |  3000  |  0.4135          |
 |  0.4396        |  59.26   |  4000  |  0.4137          |
+
+- Loss : 0.4137
+
+### Framework version
+
+- Transformers 4.30.2
+- Pytorch 2.0.0
+- Datasets 2.1.0
+- Tokenizers 0.13.3
