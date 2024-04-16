@@ -76,7 +76,7 @@ def main():
         proses(text, jk, output, sample_rate)
         print(f"{color.CYAN}Selesai!!! silahkan cek hasil outputnya{color.END}")
     except:
-        print(f"Masukkan nilai yang valid ketikan perintah {color.RED}python3 utama.py --help{color.END} untuk bantuan")
+        print(f"Masukkan nilai yang valid ketikan perintah {color.RED}python3 utama.py --help{color.END} untuk bantuan atau harus login dulu menggunakan  perintah huggingface-cli login kemudian authentisi tokennya")
         
 if __name__ == "__main__":
     main()
